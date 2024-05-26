@@ -15,7 +15,7 @@ Antes de utilizar o Conversor de Imagens para JPEG, verifique se o seu sistema a
 
 Você pode instalar a biblioteca PIL através do comando pip:
 
-```bash
+
 pip install Pillow
 Utilização
 Para utilizar o Conversor de Imagens para JPEG, siga os passos abaixo:
@@ -24,7 +24,7 @@ Execute o Programa:
 
 Execute o script Python do programa utilizando o seguinte comando no terminal:
 
-```bash
+
 python seu_script.py
 
 Selecione a Pasta de Origem:
